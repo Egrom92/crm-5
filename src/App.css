@@ -1,0 +1,13 @@
+.nav-item:not(:last-child) {
+    margin-bottom: 5px;
+}
+.list-group-item .nav-link {
+    padding: 0;
+}
+.sidebar {
+    height: 100vh;
+    position: fixed;
+}
+.page-link {
+    cursor: pointer;
+}
